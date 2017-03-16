@@ -1,0 +1,2 @@
+c:\users\lokesh\documents\visual studio 2012\Projects\Medication Alarm\Medication Alarm\bin\Debug\Medication Alarm.exe.config
+c:\users\lokesh\documents\visual studio 2012\Projects\Medication Alarm\Medication Alarm\obj\Debug\Medication Alarm.csprojResolveAssemblyReference.cache

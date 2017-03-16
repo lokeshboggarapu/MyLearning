@@ -1,0 +1,6 @@
+c:\users\lokesh\documents\visual studio 2012\Projects\PatientDemographics\PatientDemographics\bin\Debug\PatientDemographics.exe.config
+c:\users\lokesh\documents\visual studio 2012\Projects\PatientDemographics\PatientDemographics\obj\Debug\PatientDemographics.csprojResolveAssemblyReference.cache
+c:\users\lokesh\documents\visual studio 2012\Projects\PatientDemographics\PatientDemographics\bin\Debug\PatientDemographics.exe
+c:\users\lokesh\documents\visual studio 2012\Projects\PatientDemographics\PatientDemographics\bin\Debug\PatientDemographics.pdb
+c:\users\lokesh\documents\visual studio 2012\Projects\PatientDemographics\PatientDemographics\obj\Debug\PatientDemographics.exe
+c:\users\lokesh\documents\visual studio 2012\Projects\PatientDemographics\PatientDemographics\obj\Debug\PatientDemographics.pdb

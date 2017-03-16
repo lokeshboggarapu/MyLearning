@@ -1,0 +1,6 @@
+c:\users\lokesh\documents\visual studio 2012\Projects\Allergy class\Allergy class\bin\Debug\Allergy class.exe.config
+c:\users\lokesh\documents\visual studio 2012\Projects\Allergy class\Allergy class\obj\Debug\Allergy class.csprojResolveAssemblyReference.cache
+c:\users\lokesh\documents\visual studio 2012\Projects\Allergy class\Allergy class\bin\Debug\Allergy class.exe
+c:\users\lokesh\documents\visual studio 2012\Projects\Allergy class\Allergy class\bin\Debug\Allergy class.pdb
+c:\users\lokesh\documents\visual studio 2012\Projects\Allergy class\Allergy class\obj\Debug\Allergy class.exe
+c:\users\lokesh\documents\visual studio 2012\Projects\Allergy class\Allergy class\obj\Debug\Allergy class.pdb

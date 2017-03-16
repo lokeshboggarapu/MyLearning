@@ -1,0 +1,6 @@
+c:\users\lokesh\documents\visual studio 2012\Projects\fever alaram\fever alaram\bin\Debug\fever alaram.exe.config
+c:\users\lokesh\documents\visual studio 2012\Projects\fever alaram\fever alaram\obj\Debug\fever alaram.csprojResolveAssemblyReference.cache
+C:\Users\lokesh\documents\visual studio 2012\Projects\fever alaram\fever alaram\bin\Debug\fever alaram.exe
+C:\Users\lokesh\documents\visual studio 2012\Projects\fever alaram\fever alaram\bin\Debug\fever alaram.pdb
+C:\Users\lokesh\documents\visual studio 2012\Projects\fever alaram\fever alaram\obj\Debug\fever alaram.exe
+C:\Users\lokesh\documents\visual studio 2012\Projects\fever alaram\fever alaram\obj\Debug\fever alaram.pdb

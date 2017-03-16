@@ -1,0 +1,6 @@
+C:\Users\lokesh\documents\visual studio 2012\Projects\TemperatureClass\TemperatureClass\obj\Debug\TemperatureClass.csprojResolveAssemblyReference.cache
+C:\Users\lokesh\documents\visual studio 2012\Projects\TemperatureClass\TemperatureClass\bin\Debug\TemperatureClass.dll.config
+C:\Users\lokesh\documents\visual studio 2012\Projects\TemperatureClass\TemperatureClass\bin\Debug\TemperatureClass.dll
+C:\Users\lokesh\documents\visual studio 2012\Projects\TemperatureClass\TemperatureClass\bin\Debug\TemperatureClass.pdb
+C:\Users\lokesh\documents\visual studio 2012\Projects\TemperatureClass\TemperatureClass\obj\Debug\TemperatureClass.dll
+C:\Users\lokesh\documents\visual studio 2012\Projects\TemperatureClass\TemperatureClass\obj\Debug\TemperatureClass.pdb
